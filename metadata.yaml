@@ -1,0 +1,30 @@
+_repo: Lancelot-of-the-LaikA-Scottish-Metrical-Romance_36848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthurian romances'
+- !lcc 'PR'
+- !lcsh 'Lancelot (Legendary character) -- Romances'
+title: 'Lancelot of the Laik: A Scottish Metrical Romance (About 1490-1500 A. D.)'
+url: http://www.gutenberg.org/ebooks/36848

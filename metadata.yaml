@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4590
     wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36848#Lancelot-of-the-LaikA-Scottish-Metrical-Romance
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2011-07-25'
 gutenberg_type: Text
